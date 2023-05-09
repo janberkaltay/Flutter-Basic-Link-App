@@ -5,4 +5,4 @@ We use 2 package in this app:
 2) font_awesome_flutter
 
 You can find the example screenshot in readme page.
-![image](https://user-images.githubusercontent.com/99503700/236639494-6a6cb857-ee9e-40bd-8421-8920a3dcf8ec.png)
+![image](https://github.com/janberkaltay/Flutter-Basic-Link-App/assets/99503700/697eb204-ea4a-4e05-9628-2bf9743fa089)
